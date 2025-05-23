@@ -8,10 +8,10 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
     return (
-        <Router basename="/portfollo">
+        <Router basename="/portfolio">
             <div className="App">
                 <nav className="navbar navbar-expand-lg navbar-dark">
-                    <a href="/" className="navbar-brand bg-black">My Portfollo</a>
+                    <a href="/" className="navbar-brand bg-black">My Portfolio</a>
                 </nav>
                 <Portfolio />
                 <div style={{ marginBottom: '100px' }} />
