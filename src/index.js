@@ -3,6 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+//MDBootstrap css files
+import 'mdbootstrap/css/bootstrap.css';
+import 'mdbootstrap/css/mdb.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
