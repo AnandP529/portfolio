@@ -48,7 +48,7 @@ class ProjectsSection extends Component {
                                             rel="noreferrer"
                                             role="button"
                                         >
-                                            Read More
+                                            Open
                                         </a>
                                     </div>
 
