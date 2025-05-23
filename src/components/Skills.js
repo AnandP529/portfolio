@@ -45,11 +45,11 @@ const Skills = () => {
                                             <li key={i}>{item}</li>
                                         ))}
                                     </ul>
-                                    <div className="text-center mt-auto">
+                                    {/*<div className="text-center mt-auto">
                                         <button className="btn btn-primary rounded-pill px-4 mt-3">
                                             Read More
                                         </button>
-                                    </div>
+                                    </div>*/}
                                 </div>
                             </div>
                         ))}
