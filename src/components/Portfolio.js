@@ -1,5 +1,5 @@
 import React, {Fragment} from "react";
-import Anandpicture from "../assets/images/Anandpicture.jpg";
+import Anandimage from "../assets/images/Anandimage.png";
 
 class Portfolio extends React.Component {
 
@@ -19,7 +19,7 @@ class Portfolio extends React.Component {
                         <div className="col-md-6 d-flex justify-content-center">
                                 <div className="card-body text-center">
                                     <img
-                                        src={Anandpicture}
+                                        src={Anandimage}
                                         alt="Poorna AnandKumar"
                                         className="profile-img"
                                     />
