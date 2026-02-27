@@ -17,13 +17,14 @@ class Portfolio extends React.Component {
                                 projects while enhancing my skills.</p>
                         </div>
                         <div className="col-md-6 d-flex justify-content-center">
-                                <div className="card-body text-center">
+                            <div className="profile-container">
+                               <div className="circle-bg"></div>
                                     <img
                                         src={Anandimage}
                                         alt="Poorna AnandKumar"
                                         className="profile-img"
                                     />
-                                </div>
+                            </div>
                         </div>
                         <div className="social-icons">
                             <a
