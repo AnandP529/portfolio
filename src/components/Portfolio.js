@@ -12,7 +12,7 @@ class Portfolio extends React.Component {
                             <h2 className="mb-3 text-primary">Hi, I'm</h2>
                             <h3 className="mb-2 fw-bold text-primary">Poorna AnandKumar Pedapati</h3>
                             <h4 className="text-primary">Front-End Developer</h4>
-                            <p className="text-primary">Aspiring MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js.
+                            <p className="text-primary">Aspiring Froent-End Developer with expertise in MongoDB, Express.js, React.js, and Node.js.
                                 Passionate about building scalable, user-friendly web applications and eager to contribute to innovative
                                 projects while enhancing my skills.</p>
                         </div>

@@ -12,13 +12,13 @@ class ProjectsSection extends Component {
                     link: "https://anandp529.github.io/vacation-website/",
                 },
                 {
-                    title: "Brains-Kart Application",
+                    title: "Git Hub User Search",
                     description:
-                        "Brains-Kart is an e-commerce web application offering a seamless shopping experience for Gents, Ladies, and Kids. It features user authentication, dynamic product listings, cart management, and secure checkout.",
+                        "It is used to search the github users with gith hub profile names",
                     link: "#",
                 },
                 {
-                    title: "Movie Ticket Application",
+                    title: "Contact App",
                     description:
                         "A user-friendly movie ticket booking app that allows users to browse movies, select showtimes, choose seats, and make secure payments—all in one seamless experience.",
                     link: "#",
